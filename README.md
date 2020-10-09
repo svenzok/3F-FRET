@@ -6,7 +6,7 @@
   - Curve Fitting Toolbox
 
 # Copyright and Software License
-Copyright (c) SFB1101, ZMPB and IPTC, University of Tübingen, Tübingen
+Copyright (c) SFB1101, ZMPB and IPTC, University of Tübingen, Tübingen.
 The scripts in 3F-FRET are licensed under the [GNU GPL](https://www.gnu.org/licenses/)
 
 # How to cite 3F-FRET
