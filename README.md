@@ -5,6 +5,7 @@
 The spectra and photophysical parameters of mTurquoise2, mVenus and mRFP1 that were used in the above publication are stored in
 - FP_original_spectra.mat
 - FP_photophysical_params.mat
+
 using the original published data for these fluorescent proteins.
 
 ### calculation of Förster distances and 10% FRET distances
@@ -38,7 +39,7 @@ The following programs are needed for full functionality of the above main scrip
 # Copyright and Software License
 Copyright (c) SFB1101, ZMPB and IPTC, University of Tübingen, Tübingen.
 
-The scripts in 3F-FRET are licensed under the [GNU GPL](https://www.gnu.org/licenses/)
+The scripts in 3F-FRET are licensed under the [GNU GPL](https://www.gnu.org/licenses/).
 
 # How to cite 3F-FRET
 If you use any of the scripts in 3F-FRET to process your data, please, cite our [paper](https://www.biorxiv.org/content/10.1101/722124v1):
