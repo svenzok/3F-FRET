@@ -27,10 +27,13 @@ The following programs are needed for full functionality of the above main scrip
 - calcFRETcascade.m
 - calc_R0_multacc.m
 - calcFRETcascade_multacc.m
+- get_markerindices.m
 
 # Requirements
 - MATLAB R2020a or newer
   - Curve Fitting Toolbox
+  - Image Processing Toolbox
+  - Signal Processing Toolbox
 
 # Copyright and Software License
 Copyright (c) SFB1101, ZMPB and IPTC, University of Tübingen, Tübingen.
