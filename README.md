@@ -14,6 +14,7 @@ The data in Table 1 of the above publication were calculated using
 ## spectral unmixing
 The main program
 - unmix_tripleFRET
+
 applies linear unmixing to a measured spectrum to estimate the ratio of the underlying three components (mTurquoise2, mVenus and mRFP1 for the above publication, but any viable combination can be processed here). This program also produces a figure to visualize the relative contribution of the components to the sum spectrum.
 
 ## sub-programs
@@ -35,6 +36,7 @@ The following programs are needed for full functionality of the above main scrip
 
 # Copyright and Software License
 Copyright (c) SFB1101, ZMPB and IPTC, University of Tübingen, Tübingen.
+
 The scripts in 3F-FRET are licensed under the [GNU GPL](https://www.gnu.org/licenses/)
 
 # How to cite 3F-FRET
